@@ -35,11 +35,11 @@
 >
 >添加普通用户
 >>`useradd -m -G wheel -s /bin/bash <你的用户名>`
->>`passwd <你的用户名>`
+>>>`passwd <你的用户名>`
 >
 >配置网络
 >>`ip a`
->>`vim /etc/systemd/network/20-wired.network`
+>>>`vim /etc/systemd/network/20-wired.network`
 ```
 [Match]
 Name=ens33  # *** 这里的 ens33 就是你的网卡名称 ***
