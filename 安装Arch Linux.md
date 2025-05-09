@@ -76,6 +76,7 @@ pacman -S grub             # 如果是BIOS/Legacy启动
 >
 ### 完成安装
 
+
 可选操作
 >安装常用程序
 >>`pacman -S git networkmanager bash-completion htop unzip zip tree wget curl`
