@@ -74,7 +74,7 @@ pacman -S grub             # 如果是BIOS/Legacy启动
 >拔出u盘
 >>`reboot`
 >
-##### 完成安装
+### 完成安装
 
 可选操作
 >安装常用程序
