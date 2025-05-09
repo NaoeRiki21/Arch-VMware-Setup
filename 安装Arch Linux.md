@@ -29,11 +29,14 @@
 >
 >安装必要程序
 >>`pacman -S vim nano sudo openssh`
+>
 >更改时区
 >>`timedatectl ste-timezon Asia/Shanghai`
+>
 >添加普通用户
 >>`useradd -m -G wheel -s /bin/bash <你的用户名>`
 >>`passwd <你的用户名>`
+>
 >配置网络
 >>`ip a`
 >>`vim /etc/systemd/network/20-wired.network`
