@@ -4,7 +4,7 @@
 
 ### 开始
 >校准时间
-> >`timedatectl ste-ntp true`
+> >`timedatectl set-ntp true`
 >
 >分区
 >>`cfdisk /dev/nvme0n1`
