@@ -13,7 +13,7 @@
 >
 >格式化分区
 >>`mkfs.ext4 /dev/nvme0n1p1`
->>`mkswap /dev/nvme0n1p2`
+>>`mkswap /dev/nvme0n1p3`
 >>`swapon /dev/nvme0n1p2`
 >
 >挂载分区
